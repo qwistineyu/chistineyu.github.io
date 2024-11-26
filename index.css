@@ -9,10 +9,10 @@ body {
     font-family: 'Times New Roman', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     padding: 20px;
-    background-color: #FF0000;
+    background-color: #7B0323;
 }
 article {
-    max-width: 800px;
+    max-width: 600px;
     margin: 20px auto;
     padding: 20px;
     background: #fff;
